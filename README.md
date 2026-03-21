@@ -1,28 +1,37 @@
-# Napredna analiza podataka – Veliki jezički modeli
+# Advanced Data Analysis – Large Language Models
 
-Ovaj projekat je razvijen u okviru predmeta **Napredna analiza podataka**.  
-Fokus projekta je ekstrakcija informacija iz recenzija hotela korišćenjem **velikih jezičkih modela (LLM)** i dalja analiza dobijenih podataka.  
-Na osnovu izdvojenih informacija sprovedena je i mrežna analiza recenzija.
+## About
+This project was developed as part of the *Advanced Data Analysis* course.  
+The focus of the project is the extraction of information from hotel reviews using **Large Language Models (LLMs)** and further analysis of the obtained data.  
+Based on the extracted information, a network analysis of the reviews was conducted.
 
-## Cilj projekta
+---
 
-Cilj projekta je primena velikih jezičkih modela za automatsku obradu tekstualnih recenzija hotela, izdvajanje relevantnih informacija i korišćenje tih podataka za naprednu analizu i vizuelizaciju odnosa između recenzija i atributa.
+## Project Goal
+The goal of the project is to apply large language models for automatic processing of textual hotel reviews, extracting relevant information, and using that data for advanced analysis and visualization of relationships between reviews and attributes.
 
-## Korišćene tehnologije
+---
 
-- Python
-- Google Colab / Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- NetworkX
-- Large Language Models (LLM)
-- Git & GitHub
+## Technologies Used
+- Python  
+- Google Colab / Jupyter Notebook  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+- NetworkX  
+- Large Language Models (LLM)  
+- Git & GitHub  
 
-## Funkcionalnosti
+---
 
-- obrada i priprema skupa podataka
-- ekstrakcija informacija iz recenzija pomoću LLM modela
-- strukturisanje podataka za dalju analizu
-- vizuelizacija rezultata
-- mrežna analiza recenzija i atributa
+## Functionalities
+- Data processing and dataset preparation  
+- Information extraction from reviews using LLM models  
+- Structuring data for further analysis  
+- Result visualization  
+- Network analysis of reviews and attributes  
+
+---
+
+## Summary
+This project demonstrates the application of modern AI techniques, specifically Large Language Models, for extracting structured insights from unstructured text data and performing advanced analytical tasks such as network analysis and visualization.
